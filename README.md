@@ -47,7 +47,28 @@ $ cat abhinav.json
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode&theme=dark&perline=6" />
+<table border="0" cellspacing="0" cellpadding="16">
+  <tr>
+    <td align="center">
+      <sub><b>🌐 FRONTEND</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+    </td>
+    <td align="center">
+      <sub><b>⚙️ BACKEND</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>🗄️ DATABASE</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+    </td>
+    <td align="center">
+      <sub><b>🛠️ TOOLS & LANGUAGES</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
