@@ -55,30 +55,6 @@ const abhinav = {
 
 ---
 
-## 🚀 Projects
-
-> 🔨 More projects coming soon — stay tuned!
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🏗️ Project 1 | _Coming Soon_ | MERN | — |
-| 🏗️ Project 2 | _Coming Soon_ | React + Node | — |
-| 🏗️ Project 3 | _Coming Soon_ | Python | — |
-
-> 💬 *Feel free to explore my repositories and drop a ⭐ if you find something useful!*
-
----
-
-## 📊 GitHub Stats
-
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnv-8083&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abnv-8083&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abnv-8083&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Get In Touch
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
