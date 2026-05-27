@@ -78,8 +78,17 @@ $ cat abhinav.json
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav.bck318@gmail.com)
-&nbsp; — &nbsp; `abhinav.bck318@gmail.com`
+<div align="center">
+
+<a href="mailto:abhinav.bck318@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-abhinav.bck318%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 💬 &nbsp; *Have an idea or just want to say hi? My inbox is always open!*
+
+</div>
 
 ---
 
